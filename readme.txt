@@ -1,5 +1,1 @@
-222222222222
-33333333
-44444
-66666
-000000000
+Git is a distributed version control system.
